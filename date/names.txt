@@ -1,44 +1,40 @@
-Иван.
-,Джон
- Анна
- 5
-
+Иван
+Джон
+Анна
 Мэри
-Сергей,
+Сергей
 Emily
- Kate
+Kate
 Peter
 Michael
 Николай
-12
-Alice.
+Alice
 Sophia
 Борис
 David
-Elizabeth.
- Кристина
+Elizabeth
+Кристина
 Джеймс
 Мария
-Анастасия!
+Анастасия
 Thomas
- Alexandra
+Alexandra
 Алексей
 Robert
- Olivia
+Olivia
 Ольга
-10
 Daniel
 Emma
- Татьяна
+Татьяна
 Richard
 William
 Светлана
 John
- Jessica
+Jessica
 Максим
 Catherine
 Томас
- Lily
+Lily
 Марина
 Christopher
 Marie
@@ -55,9 +51,9 @@ Jacob
 Mia
 Илья,
 Noah
-Елена!
+Елена
 Александра
-, Алиса
+Алиса
 Алена
 Альберт
 Инга
