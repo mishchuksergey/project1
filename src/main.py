@@ -28,10 +28,15 @@ def russian_names_list(names_list: list) ->list:
             new_names_list.append(name_item)
     return new_names_list
 
+def save_to_file(file_name: str, data: str ) -> None:
+    """"Сохраняет данные в файл"""
+
+    with open('data/' + file_name, 'w') as names_file:
+        names_file.write(data)
 
 
 if __name__ == '__main__':
     cleared_name = clear_names('names.txt')
 
-    print(russian_names_list(cleared_name))
-
+    filtred_names = russian_names_list(cleared_name)
+    save_to_file('russian_names.txt', '\n'.join(filtred_names))
